@@ -18,6 +18,10 @@ body{
     margin-top: 50px;
 }
 
+.Form .zagolovok a{
+    text-decoration: none;
+}
+
 .Form .container{
     width: 1250px;
     height: 630px;
