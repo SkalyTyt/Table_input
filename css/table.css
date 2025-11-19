@@ -1,0 +1,57 @@
+body{
+    background-color: #321A4A;
+    font-family: "Inter", sans-serif;
+}
+
+.Form{
+    width: 1600px;
+    height: 805px;
+    border: 1px white solid;
+    margin-left: 160px;
+    margin-top: 257px;
+    border-radius: 60px;
+}
+
+.zagolvok{
+    text-align: center;
+    color: white;
+    font-size: 36px;
+}
+
+.zayavka{
+    color: white;
+    font-size: 36px;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.table_1{
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    font-weight: 1;
+}
+
+.table_1 .th__r{
+    font-size: 24px;
+    color: white;
+    padding: 15px;
+}
+
+.table_1 .td__r{
+    font-size: 24px;
+    color: white;
+    padding: 15px;
+}
+
+.table_1 .td__n{
+    color: white;
+    font-size: 24px;
+    padding: 15px;
+}
+
+.table_1 .td__d{
+    color: white;
+    font-size: 24px;
+    padding: 15px;
+}
